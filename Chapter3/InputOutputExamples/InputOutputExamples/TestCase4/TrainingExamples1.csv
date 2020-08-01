@@ -1,0 +1,17 @@
+ Outlook Temperature Humidity Wind PlayTennis
+l Sunny Hot High Weak Yes
+2 Sunny Hot High Strong No
+3 Overcast Hot High Weak No
+4 Rain Mild High Weak No
+5 Rain Cool Normal Weak Yes
+6 Rain Cool Normal Strong No
+7 Overcast Cool Normal Strong Yes
+8 Sunny Mild High Weak No
+9 Sunny Cool Normal Weak Yes
+l0 Rain Mild Normal Weak No
+l1 Sunny Mild Normal Strong Yes
+l2 Overcast Mild High Strong Yes
+l3 Overcast Hot Normal Weak Yes
+l4 Rain Mild High Strong Yes
+15 Overcast Cool High Weak Yes
+16 Overcast Cool Normal Weak No

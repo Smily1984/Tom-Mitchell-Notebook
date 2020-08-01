@@ -1,0 +1,14 @@
+// Tree
+digraph {
+	1 [label="{\"Attr\":\"Humidity\", \"Gain\":\"0.6128269883397366\"}"]
+	2 [label="{\"Attr\":\"Temperature\", \"Gain\":\"0.5032583347756457\"}"]
+	3 [label=Yes]
+	2 -> 3 [label="Temperature == 'Cool'"]
+	4 [label=No]
+	2 -> 4 [label="Temperature == 'Hot'"]
+	5 [label=No]
+	2 -> 5 [label="Temperature == 'Mild'"]
+	1 -> 2 [label="Humidity == 'High'"]
+	6 [label=Yes]
+	1 -> 6 [label="Humidity == 'Normal'"]
+}
